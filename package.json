@@ -1,0 +1,29 @@
+{
+  "name": "express-i18n-messages",
+  "version": "1.0.1",
+  "description": "ExpressJS middleware which reads .json files in a directory and outputs the values based on the \"Accept-Language\" header automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtziyo/express-i18n-messages.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "i18n",
+    "support",
+    "for",
+    "express",
+    ".json",
+    "files"
+  ],
+  "author": "mtziyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtziyo/express-i18n-messages/issues"
+  },
+  "homepage": "https://github.com/mtziyo/express-i18n-messages#readme"
+}
