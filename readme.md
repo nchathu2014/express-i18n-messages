@@ -33,12 +33,12 @@ app.use(i18nMessages({
 
 
 #### IMPORTANT
-The residing .json files inside the directory must start with the name of “messages” followed by the language prefix (e.g. messages.json, messages_fr.json)
+The residing .json files inside the directory must start with the name of "messages" followed by the language prefix (e.g. messages.json, messages_fr.json)
 
 The default file which the middleware will look for if there is no language specific message file found would be messages.json (it is a good idea to create this file)
 
 
-For examples sake let’s take an additional language in this case French (I have no idea how to speak in French so excuse me if I am using incorrect grammar on the translated file, this is a direct google translate which has been copied and pasted )
+For examples sake let's take an additional language in this case French (I have no idea how to speak in French so excuse me if I am using incorrect grammar on the translated file, this is a direct google translate which has been copied and pasted )
 
 ##### Default: messages.json
 
